@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">WorldOnPalm</string>
+  <string name="odabirStranaUputa1">
+    <b>Igrač 1</b> bira stranu
+  </string>
+  <string name="odabirStranaUputa2">
+    Pritisnite <b>jedan</b> plavi gumb
+  </string>
+</resources>

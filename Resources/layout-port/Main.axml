@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+  <TextView
+      android:text="Disconnected!"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/textView1"
+      android:textAlignment="center"
+      android:layout_marginLeft="120.3dp"
+      android:layout_marginRight="18.9dp" />
+  <Button
+      android:text="Connect"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/button1" />
+  <Button
+      android:text="Disconnect"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/button2" />
+  <TextView
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/textView2"
+      android:textAlignment="center"
+      android:layout_marginLeft="100dp"
+      android:layout_marginRight="100dp" />
+  <TextView
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/textView2"
+      android:textAlignment="center"
+      android:layout_marginLeft="100dp"
+      android:layout_marginRight="100dp" />
+  <Button
+      android:text="1 LED"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/button3" />
+  <Button
+      android:text="2 LED's"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/button4" />
+  <Button
+      android:text="3 LED's"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/button5" />
+  <TextView
+      android:textAppearance="?android:attr/textAppearanceMedium"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/textView3"
+      android:layout_marginLeft="130dp"
+      android:layout_marginRight="130dp" />
+  <Button
+      android:text="LED's AUS"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/button6" />
+  <TextView
+      android:text="Helligkeit"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/textView4"
+      android:textSize="18dp"
+      android:layout_marginLeft="151.9dp" />
+  <SeekBar
+      android:layout_width="383.0dp"
+      android:layout_height="wrap_content"
+      android:id="@+id/seekBar1"
+      android:max="153"
+      android:progress="75" />
+  <GridLayout
+      android:layout_width="match_parent"
+      android:layout_height="94.6dp"
+      android:rowCount="2"
+      android:columnCount="3">
+    <SeekBar
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:max="153"
+        android:id="@+id/seekBar2" />
+    <SeekBar
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:max="153"
+        android:id="@+id/seekBar3" />
+    <SeekBar
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:max="153"
+        android:id="@+id/seekBar4" />
+    <TextView
+        android:text="        ROT"
+        android:textSize="18dp" />
+    <TextView
+        android:text="        GELB"
+        android:textSize="18dp" />
+    <TextView
+        android:text="        BLAU"
+        android:textSize="18dp" />
+  </GridLayout>
+</LinearLayout>

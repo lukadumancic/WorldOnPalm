@@ -1,0 +1,24 @@
+﻿a|U kojem gradu je bila rezidencija knez Trpimira?|Ninu|Biogradu|Muću kod Trogira|Klisu|Klisu
+b|Kolika je prosječna slanost Jadrana?|48 ‰|38 ‰|28 ‰|58 ‰|Klisu
+c|Koliko kilometara protječe rijeka Sava kroz Hrvatsku?|562|212|356|478|562
+d|Koji je teritorijalno najveći grad u Hrvatskoj?|Gospić|Ogulin|Rijeka|Delnice|Gospić
+e|Koji je teritorijalno najveći grad u Hrvatskoj?|Gospić|Ogulin|Rijeka|Delnice|Gospić
+f|Tko je održao prvi govor na hrvatskom u saboru?|Ivan Lučić|I. K. Sakcinski|Ljudevit Gaj|Petar Preradović|I. K. Sakcinski
+g|Kako se naziva prvo europsko selo roda?|Gušće|Gračenica|Čigoć|Semeljci|Čigoć
+h|Koji je teritorijalno najveći grad u Hrvatskoj?|Gospić|Ogulin|Rijeka|Delnice|Gospić
+i|Kako se zove mjesto u kojem se nalazi najpoznatji kamenolom?|Milna|Pučišća|Sutivan|Supetar|Pučišća
+j|Gdje je izgrađena prva vila na Jadranu?|Pula|Opatija|Lovran|Rijeka|Opatija
+k|Koji je teritorijalno najveći grad u Hrvatskoj?|Gospić|Ogulin|Rijeka|Delnice|Gospić
+l|Kada se je dogodila "Krbavska bitka"|1493.|1593.|1693.|1793.|1493.
+m|Koji NP se nalazi u ovoj regiji?|Brijuni|Kornati|Plit. Jezera|Sj. Velebit|Brijuni
+n|Koji je teritorijalno najveći grad u Hrvatskoj?|Gospić|Ogulin|Rijeka|Delnice|Gospić
+o|Koliko je visoka zagrebačka katedrala?|70 m|85 m|93 m|108 m|108 m
+p|Zaštitnici kojeg grada su sv. Filip i Jakov?|Đakovo|Vukovar|Osijek|Sl. Brod|Vukovar
+q|Koji je teritorijalno najveći grad u Hrvatskoj?|Gospić|Ogulin|Rijeka|Delnice|Gospić
+r|Koji je grad bio glavni grad Hrvatske prije Zagreba?|varaždin|Čakovec|Krapina|Koprivnica|Varaždin
+s|Koliko je visok najviši slap u Slavoniji?|40 m|56 m|25 m|30 m|30 m
+t|Koji je teritorijalno najveći grad u Hrvatskoj?|Gospić|Ogulin|Rijeka|Delnice|Gospić
+u|Koji je najudaljeniji hrvatski otok?|Jabuka|palagruža|lastovo|Iž|Palagruža
+v|Od koje godine se održavaju varaždinske barokne večeri?|1951.|1961.|1971.|1981.|1971.
+w|Na kojoj se visini nalazi najviša meteorološka postaja u Hrvatskoj?|1649 m|1449 m|1549 m|1349m |1549 m
+x|Koliko je visok najviši vrh nizinske Hrvatske?|1178 m|1078 m|978 m|1278 m|1178 m

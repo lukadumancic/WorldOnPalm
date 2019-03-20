@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10"
+    android:background="#35383F">
+    <ImageView
+        android:src="@drawable/klasicna"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/vrstaIgreView"
+        android:layout_weight="7.8"
+        android:scaleType="fitXY" />
+    <ImageButton
+        android:src="@drawable/pokreni"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/pokreniButton"
+        android:layout_weight="1"
+        android:layout_marginLeft="75dp"
+        android:layout_marginRight="75dp"
+        android:background="#35383F"
+        android:scaleType="fitXY" />
+</LinearLayout>

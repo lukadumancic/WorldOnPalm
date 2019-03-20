@@ -1,0 +1,40 @@
+WorldOnPalm.Dvoboj, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.Dvoboj
+WorldOnPalm.Dvoboj, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.Dvoboj
+WorldOnPalm.Dvoboj;md5451de887bba1cacaef7c825eb42dd4ea.Dvoboj
+worldonpalm.Dvoboj;md5451de887bba1cacaef7c825eb42dd4ea.Dvoboj
+WorldOnPalm.Host, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.Host
+WorldOnPalm.Host, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.Host
+WorldOnPalm.Host;md5451de887bba1cacaef7c825eb42dd4ea.Host
+worldonpalm.Host;md5451de887bba1cacaef7c825eb42dd4ea.Host
+WorldOnPalm.HostOrJoin, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.HostOrJoin
+WorldOnPalm.HostOrJoin, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.HostOrJoin
+WorldOnPalm.HostOrJoin;md5451de887bba1cacaef7c825eb42dd4ea.HostOrJoin
+worldonpalm.HostOrJoin;md5451de887bba1cacaef7c825eb42dd4ea.HostOrJoin
+WorldOnPalm.IgraJoin, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.IgraJoin
+WorldOnPalm.IgraJoin, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.IgraJoin
+WorldOnPalm.IgraJoin;md5451de887bba1cacaef7c825eb42dd4ea.IgraJoin
+worldonpalm.IgraJoin;md5451de887bba1cacaef7c825eb42dd4ea.IgraJoin
+WorldOnPalm.Join, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.Join
+WorldOnPalm.Join, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.Join
+WorldOnPalm.Join;md5451de887bba1cacaef7c825eb42dd4ea.Join
+worldonpalm.Join;md5451de887bba1cacaef7c825eb42dd4ea.Join
+WorldOnPalm.KlasicnaIgra, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.KlasicnaIgra
+WorldOnPalm.KlasicnaIgra, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.KlasicnaIgra
+WorldOnPalm.KlasicnaIgra;md5451de887bba1cacaef7c825eb42dd4ea.KlasicnaIgra
+worldonpalm.KlasicnaIgra;md5451de887bba1cacaef7c825eb42dd4ea.KlasicnaIgra
+WorldOnPalm.GameTypeMenu, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.GameTypeMenu
+WorldOnPalm.GameTypeMenu, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.GameTypeMenu
+WorldOnPalm.GameTypeMenu;md5451de887bba1cacaef7c825eb42dd4ea.GameTypeMenu
+worldonpalm.GameTypeMenu;md5451de887bba1cacaef7c825eb42dd4ea.GameTypeMenu
+WorldOnPalm.MainActivity, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.MainActivity
+WorldOnPalm.MainActivity, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.MainActivity
+WorldOnPalm.MainActivity;md5451de887bba1cacaef7c825eb42dd4ea.MainActivity
+worldonpalm.MainActivity;md5451de887bba1cacaef7c825eb42dd4ea.MainActivity
+WorldOnPalm.Nick, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.Nick
+WorldOnPalm.Nick, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.Nick
+WorldOnPalm.Nick;md5451de887bba1cacaef7c825eb42dd4ea.Nick
+worldonpalm.Nick;md5451de887bba1cacaef7c825eb42dd4ea.Nick
+WorldOnPalm.IgraHost, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.IgraHost
+WorldOnPalm.IgraHost, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.IgraHost
+WorldOnPalm.IgraHost;md5451de887bba1cacaef7c825eb42dd4ea.IgraHost
+worldonpalm.IgraHost;md5451de887bba1cacaef7c825eb42dd4ea.IgraHost

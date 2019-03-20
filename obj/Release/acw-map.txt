@@ -1,0 +1,16 @@
+WorldOnPalm.KlasicnaIgra, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.KlasicnaIgra
+WorldOnPalm.KlasicnaIgra, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.KlasicnaIgra
+WorldOnPalm.KlasicnaIgra;md5451de887bba1cacaef7c825eb42dd4ea.KlasicnaIgra
+worldonpalm.KlasicnaIgra;md5451de887bba1cacaef7c825eb42dd4ea.KlasicnaIgra
+WorldOnPalm.GameTypeMenu, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.GameTypeMenu
+WorldOnPalm.GameTypeMenu, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.GameTypeMenu
+WorldOnPalm.GameTypeMenu;md5451de887bba1cacaef7c825eb42dd4ea.GameTypeMenu
+worldonpalm.GameTypeMenu;md5451de887bba1cacaef7c825eb42dd4ea.GameTypeMenu
+WorldOnPalm.MainActivity, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.MainActivity
+WorldOnPalm.MainActivity, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.MainActivity
+WorldOnPalm.MainActivity;md5451de887bba1cacaef7c825eb42dd4ea.MainActivity
+worldonpalm.MainActivity;md5451de887bba1cacaef7c825eb42dd4ea.MainActivity
+WorldOnPalm.Nick, WorldOnPalm;md5451de887bba1cacaef7c825eb42dd4ea.Nick
+WorldOnPalm.Nick, WorldOnPalm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5451de887bba1cacaef7c825eb42dd4ea.Nick
+WorldOnPalm.Nick;md5451de887bba1cacaef7c825eb42dd4ea.Nick
+worldonpalm.Nick;md5451de887bba1cacaef7c825eb42dd4ea.Nick

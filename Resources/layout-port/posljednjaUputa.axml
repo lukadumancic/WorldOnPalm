@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:background="#35383F">
+    <ImageButton
+        android:src="@drawable/posljednjauputa"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/pokreniIgru"
+        android:scaleType="fitXY"
+        android:padding="0px"
+        android:layout_weight="9.8" />
+</LinearLayout>

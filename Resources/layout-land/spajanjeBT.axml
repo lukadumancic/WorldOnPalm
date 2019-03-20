@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#35383F"
+    android:weightSum="10">
+    <ImageButton
+        android:src="@drawable/btnotconnected"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/btSpajanje"
+        android:layout_weight="8.2"
+        android:scaleType="fitXY"
+        android:padding="0px" />
+    <ImageButton
+        android:src="@drawable/nastavi"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/btNastavi"
+        android:layout_weight="2"
+        android:scaleType="fitXY"
+        android:padding="0px" />
+</LinearLayout>

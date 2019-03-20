@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="WorldOnPalm.WorldOnPalm" android:versionCode="1" android:versionName="1.0" android:installLocation="auto" android:configChanges="orientation|screenSize">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.BLUETOOTH" />
+  <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+  <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <application android:label="WorldOnPalm" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="WorldOnPalm" android:screenOrientation="unspecified" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md5451de887bba1cacaef7c825eb42dd4ea.KlasicnaIgra" />
+    <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="WorldOnPalm" android:screenOrientation="unspecified" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md5451de887bba1cacaef7c825eb42dd4ea.GameTypeMenu" />
+    <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="WorldOnPalm" android:screenOrientation="unspecified" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md5451de887bba1cacaef7c825eb42dd4ea.MainActivity" />
+    <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="WorldOnPalm" android:screenOrientation="unspecified" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md5451de887bba1cacaef7c825eb42dd4ea.Nick" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="WorldOnPalm.WorldOnPalm.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

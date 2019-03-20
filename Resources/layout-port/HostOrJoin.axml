@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10"
+    android:background="#404040">
+    <ImageView
+        android:src="@drawable/createtop"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/imageView1"
+        android:scaleType="fitXY"
+        android:layout_weight="7"
+        android:background="#35383F" />
+    <ImageButton
+        android:src="@drawable/pridruzise"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/pridruziSeButton"
+        android:scaleType="fitXY"
+        android:layout_weight="1.45"
+        android:padding="0px"
+        android:background="#35383F" />
+    <ImageButton
+        android:src="@drawable/napravi"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/napraviButton"
+        android:scaleType="fitXY"
+        android:layout_weight="1.55"
+        android:padding="0px"
+        android:background="#35383F" />
+</LinearLayout>
